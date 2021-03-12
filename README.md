@@ -1,7 +1,7 @@
 # CTFlutter
 
 ## Description
-CTFlutter is an Android based CTF with an added layer of Flutter functionality. There are 2 flags to be found. You can download the APK at https://www.dropbox.com/s/4ottdv6ztab2nhm/ctflutter.apk?dl=0
+CTFlutter is an Android based CTF with an added layer of Flutter functionality. There are 2 flags to be found. You can download the APK at https://www.dropbox.com/s/ipvlt1260rj4he7/ctflutter.apk?dl=0
 
 ## Rules
 To learn the most out of this challenge, you should try to follow the below rules:
